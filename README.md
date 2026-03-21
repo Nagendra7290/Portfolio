@@ -1,4 +1,4 @@
-# 🌐 Nagendra Arya – Portfolio Website
+# Nagendra Arya – Portfolio Website
 
 Welcome to my personal portfolio website repository.  
 This project showcases my professional profile, skills, and experience as a **Control Tower Executive & Supply Chain Analyst**.
