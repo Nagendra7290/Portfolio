@@ -1,66 +1,67 @@
-##  Nagendra Arya – Portfolio Website
+# Nagendra Arya – Portfolio Website
 
-Welcome to my personal portfolio repository!  
-This project highlights my professional journey, skills, and expertise as a **Control Tower Executive & Supply Chain Analyst**.
-
----
-
-## 🔗 Live Website
-👉 **Explore my portfolio:**  
-🌍 https://nagendra7290.github.io/Portfolio/
+Welcome to my personal portfolio repository. This project presents my professional background, core competencies, and experience as a Control Tower Executive and Supply Chain Analyst.
 
 ---
 
-## 👨‍💼 About Me
-I am a **Control Tower Executive** with **4+ years of experience** in supply chain operations, logistics coordination, and real-time shipment monitoring.
+## Live Website  
+Explore the portfolio:  
+🔗 https://nagendra7290.github.io/Portfolio/
 
-I specialize in:
+---
+
+## About Me  
+I am a Control Tower Executive with over four years of experience in supply chain operations, logistics coordination, and real-time shipment monitoring.
+
+My expertise includes:
 - End-to-end supply chain visibility  
-- SLA tracking & performance monitoring  
-- Issue escalation & resolution  
+- SLA tracking and performance monitoring  
+- Issue escalation and resolution  
 - Data-driven decision-making  
 
-My goal is to ensure **efficient, transparent, and optimized logistics operations**.
+I am committed to ensuring efficient, transparent, and optimized logistics operations.
 
 ---
 
-## 🧠 Key Skills
+## Key Skills  
 
-- 📦 Control Tower Operations  
-- 🚚 End-to-End Shipment Monitoring  
-- 📊 SLA & KPI Tracking  
-- ⚠️ Issue Escalation & Root Cause Analysis (RCA)  
-- 🔄 Logistics & Supply Chain Coordination  
-- 📑 MIS Reporting & Data Analysis  
-- 📈 Dashboard Creation (Excel / Google Sheets)
-
----
-
-## 🛠️ Technologies & Tools
-
-- 🌐 HTML5  
-- 🎨 CSS3  
-- ⚡ JavaScript  
-- 🧩 Bootstrap  
-- 🗂️ Git & GitHub  
-- 🚀 GitHub Pages (Hosting)
+- Control Tower Operations  
+- End-to-End Shipment Monitoring  
+- SLA and KPI Tracking  
+- Issue Escalation and Root Cause Analysis (RCA)  
+- Logistics and Supply Chain Coordination  
+- MIS Reporting and Data Analysis  
+- Dashboard Development using Excel and Google Sheets  
 
 ---
 
-## 📌 Features of Portfolio
+## Technologies and Tools  
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Bootstrap  
+- Git and GitHub  
+- GitHub Pages (Hosting)  
+
+---
+
+## Portfolio Features  
 
 - Professional profile overview  
 - Skills and expertise section  
 - Project highlights  
-- Clean and responsive UI design  
-- Easy navigation and accessibility  
+- Clean and responsive user interface  
+- Structured and user-friendly navigation  
 
 ---
 
-## 📬 Contact
+## Contact  
 
-Feel free to connect with me for opportunities, collaborations, or discussions related to **Supply Chain, Data Analysis, or Logistics Operations**.
+I welcome opportunities for collaboration, professional discussions, and roles related to supply chain management, logistics operations, and data analysis.
 
 ---
 
-⭐ *If you like this project, don't forget to star the repository!*
+## Support  
+
+If you find this project valuable, please consider giving it a star.
